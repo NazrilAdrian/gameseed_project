@@ -15,7 +15,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 [application]
 
 config/name="Gameseed Project"
-run/main_scene="uid://dsaolus08cl12"
+run/main_scene="uid://cadoy36qtyd3w"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
