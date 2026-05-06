@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="WeaponData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/resource/weapon_data.gd" id="1_weapdata"]
+
+[resource]
+script = ExtResource("1_weapdata")
+weapon_name = "Pedang Besi"
+weapon_icon = null
+price = 150
+damage = 25
