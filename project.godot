@@ -22,6 +22,10 @@ config/icon="res://icon.svg"
 
 project/assembly_name="Gameseed Project"
 
+[gui]
+
+theme/custom="uid://b3klx57slj0l3"
+
 [input]
 
 interact={
